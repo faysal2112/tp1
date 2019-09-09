@@ -1,7 +1,7 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : Haouari   
+Prénom : Faysal
 
 # 1.
 Qu'est-ce qu'une instance EC2 ?
